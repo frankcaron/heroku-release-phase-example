@@ -2,6 +2,6 @@
     "name": "Heroku Release Phase App",
     "description": "Simple sample app to demonstrate Heroku Release phase technology",
     "repository": "https://github.com/frankcaron/heroku-release-phase-example",
-    "logo": "Simple sample app to demonstrate Heroku Release phase technology",
+    "logo": "",
     "keywords": ["node", "express", "static"]
   }
