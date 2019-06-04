@@ -1,6 +1,6 @@
 # Heroku Release Phase Sample App
 
-This is a simple sample application designed to showcase Heroku Release Phases, a feature which allows you to automate deploy tasks right before a Heroku app is made publicly available. In this example, a static asset is uploaded to an S3 instance and then an environment variable for our app is updated with the appropriate S3 base URL.
+This is a simple sample application designed to showcase Heroku Release Phases, a feature which allows you to automate deploy tasks right before a Heroku app is made publicly available. In this example, a static asset is uploaded to an S3 instance and said asset is referenced in one of the views with help from a S3-hosted base URL for the asset injected in via an environment variable.
 
 # Prereqs
 
