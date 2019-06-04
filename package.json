@@ -1,0 +1,23 @@
+{
+  "name": "heroku-release-phase-example",
+  "version": "1.0.0",
+  "description": "Simple sample app to demonstrate Heroku Release phase technology",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "heroku",
+    "release",
+    "phase",
+    "amazon",
+    "s3"
+  ],
+  "author": "Frank Caron",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Heroku Release Phase App",
+    "description": "A barebones Node.js app using Express 4",
+    "repository": "https://github.com/frankcaron/heroku-release-phase-example",
+    "logo": "Simple sample app to demonstrate Heroku Release phase technology",
+    "keywords": ["node", "express", "static"]
+  }
