@@ -14,6 +14,8 @@ You will need:
 You'll need the following environment variables to make this work:
 
 * `AMAZON_S3_BASE_URL`
+* `AMAZON_S3_KEY`
+* `AMAZON_S3_SECRET`
 
 # Heroku Button
 
