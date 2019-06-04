@@ -21,4 +21,4 @@ You'll need the following environment variables to make this work:
 
 # Thanks
 
-Big thanks to Steve @ Heroku for the helpp.
+Big thanks to Steve @ Heroku for the help. Heroku Solution Engineers are legit.
