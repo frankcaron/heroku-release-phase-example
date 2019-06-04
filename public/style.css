@@ -1,0 +1,24 @@
+html {
+    font-family: sans-serif;
+}
+
+div.page-masthead {
+    margin: auto;
+    width: 50px;
+    text-align: center;
+}
+
+div.page-container {
+    margin: auto;
+    width: 500px;
+    padding: 10px;
+    text-align: center;
+}
+
+img.page-masthead-icon {
+    width: 50px;
+}
+
+div.page-content {
+    text-align: center;
+}
