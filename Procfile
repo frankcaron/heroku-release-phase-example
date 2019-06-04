@@ -1,2 +1,2 @@
 web: node index.js
-release: echo 'test'
+release: node pusher.js
