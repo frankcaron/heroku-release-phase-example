@@ -28,8 +28,6 @@ fs.readdir(staticAssets, function (err, files) {
           return;
         }
 
-        console.log ("Going to check if file " + file + " is a file. Is it? " + stat.isFile());
-
         //Upload
         fs.readFile(staticAssets + '/' + file, function (err, data) {
         if (err) { throw err; }
