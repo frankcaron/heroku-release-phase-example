@@ -3,7 +3,7 @@ var AWS = require('aws-sdk'),
 
 const AMAZON_S3_BASE_URL = process.env.AMAZON_S3_BASE_URL || '';
 const AMAZON_S3_BUCKET_NAME = process.env.AMAZON_S3_BUCKET_NAME || '';
-const staticAssets = './public';
+const staticAssets = 'public';
 
 AWS.config.update({ accessKeyId: process.env.AMAZON_S3_KEY, secretAccessKey: process.env.AMAZON_S3_SECRET });
 
