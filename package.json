@@ -16,7 +16,7 @@
   "author": "Frank Caron",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.467.0",
+    "aws-sdk": "^2.814.0",
     "ejs": "^2.6.1",
     "express": "^4.17.1",
     "fs": "0.0.1-security",
